@@ -1,3 +1,4 @@
+Architectural Blueprint 
 # Main System Orchestration
 class QuotationSystem:
     def initialize():
